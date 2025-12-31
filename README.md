@@ -354,5 +354,12 @@ For more tips on how to build and test Chainlink, see our [development tips page
 Contributions are welcome to Chainlink's source code.
 
 Please check out our [contributing guidelines](./docs/CONTRIBUTING.md) for more details.
+## Base Network Consideration
+
+Chainlink services and contracts can be evaluated on the Base network
+to experiment with oracle integrations in a low-cost, Ethereum-compatible environment.
+This can be useful for testing data feeds and automation flows.
+
 
 Thank you!
+
